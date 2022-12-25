@@ -1,0 +1,124 @@
+.üst {
+   display: flex;
+   float: right;
+}
+.gb_dd {
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+    margin-left: 8px;
+    background: #1a73e8;
+    border: 1px solid transparent;
+    font-family: Google Sans,Roboto,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.25px;
+    line-height: 50px;
+    margin-left: 10px;
+    margin-right: 8px;
+    min-width: 96px;
+    padding: 9px 23px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 4px;
+    box-sizing: border-box;
+     
+}
+.gb_j {
+    color: rgba(0,0,0,.87);
+    font: 13px Roboto,Arial,sans-serif;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 40px;
+   padding-left: 50px;
+    
+}
+.k1zIA {
+    height: 100%;
+    margin: auto;
+    padding-top: 1.4cm;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.rSk4se {
+    max-height: 92px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.LS8OJ {
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+    margin-left: 400px;
+    display: block;
+    margin-right: auto;
+    width: 40%;
+}
+.orta {
+    display: block;
+    display: flex;
+    z-index: 3;
+    height: 44px;
+    background: #fdfdfd;
+    border: 1px solid #a8b2bd;
+    box-shadow: none;
+    border-radius: 24px;
+    margin: 0 auto;
+    width: 480px;
+    width: auto;
+    max-width: 584px;
+    margin-top: 20px;
+}
+.alt {
+    display:flex;
+    float: left;
+    margin-left: 510px;
+    margin-top: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.fgr1{
+    display: flex;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    border: none;
+    background-color: #f2f2f2;
+    color: #5f6368;
+    float: left;
+    margin-right: 10px;
+    
+}
+.fgr2 {
+    display: flex;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 14px;
+    border: none;
+    background-color: #f2f2f2;
+    color: #5f6368;
+    float: left;
+    text-decoration: none;
+}
+.fex1 {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    height: 50px;
+    padding: 5px;
+    background-color: #f2f2f2;
+    color:khaki; 
+}
+.foo1 {
+    display: block;
+    border: none;
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    margin-top: 16px;
+    float: left;
+    
+}
